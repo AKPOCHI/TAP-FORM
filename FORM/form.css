@@ -1,0 +1,74 @@
+
+
+ 
+* {
+    background-color: black;
+}
+h1{
+    color:white;
+}
+.formwrapper{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    box-sizing: border-box;
+    
+
+}
+
+.formwrapper input {
+    background-color: white;
+    color: black;
+}
+.formwrapper input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+    margin-top: 20px;
+
+}
+
+.formwrapper select{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-right: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+ #head #fone #address{
+    float:right;
+ }
+ .ima{
+    width:25rem
+ }
+
+#fn{
+    width:20rem;
+}
+ .formwrapper #location {
+    margin-left: 40px;
+}
+.formwrapper #zip{
+    width:120px;
+}
+.formwrapper #botton{
+    margin-left: 5rem;
+    
+}
+.formwrapper #botton .first{
+    width:140px;
+    color:white;
+    background-color:black;
+}
+.formwrapper #botton .secondb{
+    width:140px;
+    color:white;
+    background-color: greenyellow;
+}
